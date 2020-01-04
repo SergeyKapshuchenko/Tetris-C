@@ -1,0 +1,5 @@
+./tetris
+*CMakeLists.txt
+.tetris
+./cmake-build-debug
+./idea
